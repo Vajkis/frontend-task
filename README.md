@@ -1,5 +1,9 @@
 # Front-End Developer Candidate Task
 
+## Preview
+
+Preview here: https://vajkis.github.io/frontend-task/
+
 ## About
 
 This task is meant to evaluate candidates frontend (HTML, CSS, JS, React) knowledge.
