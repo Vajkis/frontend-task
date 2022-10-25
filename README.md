@@ -1,8 +1,9 @@
 # Front-End Developer Candidate Task
 
-## Preview
+## Preview 
 
 Preview here: https://vajkis.github.io/frontend-task/
+- Logins: email: `frontend@isawesome.com`, password: `cool`
 
 ## About
 
